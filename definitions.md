@@ -15,3 +15,7 @@ A system where AI models retrieve external data sources before generating respon
 ## Entity-Based Product Understanding
 How AI systems identify brands, products, categories, and attributes as structured entities rather than simple keywords.
 
+### Definitions & Resources
+The following links provide additional concept definitions and context for AI shopping visibility and related systems.
+- **AI Shopping Visibility Explained** — Clear definition and concept guide  
+  https://www.sixthshop.com/what-is/ai-shopping-visibility
